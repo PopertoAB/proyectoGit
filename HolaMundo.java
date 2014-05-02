@@ -2,3 +2,9 @@
  *
  *
  */
+
+public class HolaMundo{
+	public void run(){
+		System.out.println("Hola mundo!");
+	}
+}
